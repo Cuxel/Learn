@@ -192,3 +192,32 @@
 
 <br/>
 
+## 7. 이미지 - Image
+
+```
+//일반적인 이미지 사용
+//![대체 텍스트](이미지 주소 "이미지 설명")
+
+
+//참조 링크를 통한 이미지 사용
+//![대체 텍스트][참조 ID]
+//[참조 ID](이미지 주소 "이미지 설명")
+
+
+//이미지에 링크 걸기
+//[![대체 텍스트](이미지 주소 "이미지 설명")](링크 주소)
+
+
+//사이즈 조정 및 정렬을 위해서 HTML의 <img>태그 사용 가능
+```
+
+![여우 사진](https://github.com/Cuxel/learn_markdown/blob/master/image/fox.jpg "커여운 여우 쟝")
+
+![매 사진][falcon]
+
+[falcon]: https://github.com/Cuxel/learn_markdown/blob/master/image/falcon.jpg "매 사진"
+
+[![깃 허브 로고](https://github.com/Cuxel/learn_markdown/blob/master/image/github_logo.png "깃 허브 로고")](https://github.com/)
+
+<br/>
+
