@@ -212,13 +212,13 @@
 //저장소에 이미지를 업로드 할 경우 "./img/파일 이름"의 형식으로 사용 가능
 ```
 
-![여우 사진](./markdown/image/fox.jpg "여우 사진")
+![여우 사진](./image/fox.jpg "여우 사진")
 
 ![매 사진][falcon]
 
-[falcon]: ./markdown/image/falcon.jpg "매 사진"
+[falcon]: ./image/falcon.jpg "매 사진"
 
-[![깃 허브 로고](./markdown/image/github_logo.png "깃 허브 로고")](https://github.com/)
+[![깃 허브 로고](./image/github_logo.png "깃 허브 로고")](https://github.com/)
 
 <br/>
 
