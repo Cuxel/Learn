@@ -216,9 +216,9 @@
 
 ![매 사진][falcon]
 
-[falcon]: https://github.com/Cuxel/learn/blob/master/markdown/image/falcon.jpg "매 사진"
+[falcon]: ./markdown/image/falcon.jpg "매 사진"
 
-[![깃 허브 로고](https://github.com/Cuxel/learn/blob/master/markdown/image/github_logo.png "깃 허브 로고")](https://github.com/)
+[![깃 허브 로고](./markdown/image/github_logo.png "깃 허브 로고")](https://github.com/)
 
 <br/>
 
