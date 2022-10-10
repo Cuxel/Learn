@@ -37,4 +37,9 @@
 1. GitHub에서 풀 리퀘스트 항목 선택
 2. base 브랜치와 compare 브랜치 확인
 3. 풀 리퀘스트의 이름과 내용 작성
-4. Create pull request 버튼 클릭
+4. Create pull request 버튼 클릭  
+## Tag  
+![태그](./image/tag.png)  
+1. 상단의 태그 버튼 클릭
+2. 태그 이름 작성
+3. 태그 추가 버튼 클릭
