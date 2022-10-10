@@ -30,6 +30,11 @@
 ## Merge  
 1. 병합한 결과물을 반영할 브랜치로 체크아웃
 ![병합 화면](./image/merge.png)
-
 2. 병합하려는 커밋에 우클릭 후 병합 선택
-3. 팝업창에서 확인 클릭
+3. 팝업창에서 확인 클릭  
+## Pull request  
+![풀 리퀘스트](./image/pull_request.png)  
+1. GitHub에서 풀 리퀘스트 항목 선택
+2. base 브랜치와 compare 브랜치 확인
+3. 풀 리퀘스트의 이름과 내용 작성
+4. Create pull request 버튼 클릭
