@@ -211,7 +211,7 @@
 //사이즈 조정 및 정렬을 위해서 HTML의 <img>태그 사용 가능
 ```
 
-![여우 사진](https://github.com/Cuxel/learn/blob/master/markdown/image/fox.jpg "커여운 여우 쟝")
+![여우 사진](./markdown/image/fox.jpg "여우 사진")
 
 ![매 사진][falcon]
 
