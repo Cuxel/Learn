@@ -297,3 +297,28 @@ ___
 | 왼쪽 정렬 | 가운데 정렬 | 오른쪽 정렬 |
 | 사과 | 포도 | 딸기|
 복숭아 | 바나나 | 스타후르츠 
+
+<br/>
+
+## 글자 색 - Color
+span 태그를 사용하여 글자 색을 바꿀 수 있다.  
+### 글자 색 변경
+```html
+<span style="color:red">빨간색</span>
+<span style="color:green">초록색</span>
+<span style="color:blue">파란색</span>
+```
+<span style="color:red">빨간색</span>  
+<span style="color:green">초록색</span>  
+<span style="color:blue">파란색</span>  
+### 글자 배경 색 변경
+```html
+<span style="background-color:#ffff33">노란색</span>
+<span style="background-color:#66ff66">연두색</span>
+<span style="background-color:#ff66ff">분홍색</span>
+```  
+<span style="background-color:#ffff33">노란색</span>  
+<span style="background-color:#33ff33">연두색</span>  
+<span style="background-color:#ff33ff">분홍색</span>  
+  
+색 이름 링크 : <https://www.w3schools.com/colors/colors_names.asp>
